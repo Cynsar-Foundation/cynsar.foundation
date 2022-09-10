@@ -1,6 +1,12 @@
+### Depreceated Repo, please follow the link pointed below #spaces
+
 # cynsar.foundation
 
-This is starting point, I used some designer bought the theme for like 15 US Dollars , now moving on 
+This was a starting point ,  we are no longer using this , please go here https://github.com/cynsar-foundation/spaces
+
+## hosted version
+
+https://cynsar.foundation
 
 ## Todo
 
